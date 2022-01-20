@@ -1,0 +1,32 @@
+/*font-family: 'Poppins', sans-serif;*/
+.navbar{
+    background-color: #264653;
+}
+.nav-link{
+    font-family: 'Poppins', sans-serif;
+    color: #fff;
+}
+.nav-link:hover{
+    color: #fff;
+}
+.header-section{
+    background-color: #264653; 
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+}
+.btn {
+    color: rgb(231, 111, 81);
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(231, 111, 81);
+    border-image: initial;
+}
+.sqimg{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+}
+.rating-star{
+    color: rgb(231, 111, 81);
+}
